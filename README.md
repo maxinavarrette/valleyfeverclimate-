@@ -21,7 +21,7 @@ Here is a link to the online location of the Tableau Visualization Dashboard: ht
 ### Python, SQL 
 
 Data pre-processing was split between SQL and Python. 
-The outputs of the  Jupyter notebook where pre-processing, eda, and statistical exploration was performed is included in the repository. 
+The outputs of the  Jupyter notebook where pre-processing, eda, and quantitative analysis was performed is included in the repository. 
 The SQL script that was used to pre-process Valley Fever Prevalence data from the CDC is included in the repo. 
 Eda in python informed focus of visualization in tableau. Temperature had higher correlation than precipitation with VYF prevalence. 
 
