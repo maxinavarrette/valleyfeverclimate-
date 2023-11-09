@@ -8,7 +8,7 @@ I aggregated Census, Temperature, Precipitation, and Valley Fever Prevalence dat
 
 The statistical heart of this analysis is an OLS linear model applied to a long spanning county level 1895 - 2022 Temperature and Precipitation data set, to quantify climate change at a county level to use for analysis and visualization. This output of this model is then used in tandem with Valley Fever Prevalence data to allow us a little leverage to explore prevalence in light of climate change. 
 
-##Project Walkthrough
+## Project Walkthrough
 
 ### Tableau Visualization
 
