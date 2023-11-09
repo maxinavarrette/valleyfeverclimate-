@@ -59,8 +59,10 @@ Acquired county level climate and precipitation data from [NOAA's National Clima
 
 
 ## References 
-Packages Used: Pandas, Numpy, Seaborn, Matplotlib, Sklearn
-[Economic Valuation of Coccidioidomycosis (Valley Fever) Projections in the United States in Response to Climate Change](https://pubmed.ncbi.nlm.nih.gov/34316325/)
+Packages Used: Pandas, Numpy, Seaborn, Matplotlib, Sklearn  
+
+[Economic Valuation of Coccidioidomycosis (Valley Fever) Projections in the United States in Response to Climate Change](https://pubmed.ncbi.nlm.nih.gov/34316325/)  
+
 [Washington Post 2C provides inspiration for analysis](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa)
 
 
