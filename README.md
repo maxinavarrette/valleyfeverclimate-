@@ -12,7 +12,10 @@ The statistical heart of this analysis is an OLS linear model applied to a long 
 
 Multiple tools were used in the making of this project. Namely—SQL, Python, and Tableau. 
 
-The outputs of a Pythonic Jupyter notebook where pre-processing, eda, and statistical exploration was performed is included in the repository. Additionally, the tableau visualization is included: but
+The outputs of a Pythonic Jupyter notebook where pre-processing, eda, and statistical exploration was performed is included in the repository. Additionally a full version of the tableau visualization is included in the repo. Here is a sample: 
+
+![Dashboard 1 (1)](https://github.com/maxinavarrette/valleyfeverclimate-/assets/79235014/ab86c5ff-036c-4153-8a34-8c382b8807f9)
+
 
 
 
