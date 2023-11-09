@@ -30,9 +30,9 @@ Eda in python informed focus of visualization in tableau. Temperature had higher
 
 Data was acquired from a number of different sources: 
 
-##VYF
+## VYF
 
-###State Level
+### State Level
 
 VYF data 1998 - 2017 for Arizona, California, Nevada, New Mexico, Utah, and 'Other States' 
 was acquired through the CDC. 
@@ -53,12 +53,12 @@ https://directorsblog.health.azdhs.gov/
 *very difficult site to work with. you can use their in house search to find executive reports for the years listed. 
 
 
-##Climate 
+## Climate 
 
 Acquired county level climate and precipitation data from [NOAA's National Climatic Data Center FTP](ftp.ncdc.noaa.gov). 
 
 
-##References 
+## References 
 Packages Used: Pandas, Numpy, Seaborn, Matplotlib, Sklearn
 [Economic Valuation of Coccidioidomycosis (Valley Fever) Projections in the United States in Response to Climate Change](https://pubmed.ncbi.nlm.nih.gov/34316325/)
 [Washington Post 2C provides inspiration for analysis](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa)
