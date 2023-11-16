@@ -2,11 +2,12 @@
 
 ## Summary  
 This project is an exploration of the climate controls of valley fever prevalence namely—annual temperature increases and precipitation patterns.
-Valley fever is a soil based pathogen that has been growing in prevalence year by year. It is endemic to the southwest and the majority of cases are seen in California and Arizona. 
+Valley fever is the name for the respiratory infection caused by soil based pathogen coccidioides that has been growing in prevalence year by year. It is endemic to the southwest and the majority of cases are seen in California and Arizona. 
+
 While this project explores the entire southwest, California and Arizona VYF prevalence are the primary focus. 
 I aggregated Census, Temperature, Precipitation, and Valley Fever Prevalence data to use in this project. State level analysis shows data from 1998 to 2022. County level analysis shows data from 2001 - 2021 for California and 2006 to 2021 for Arizona.
 
-The statistical heart of this analysis is an OLS linear model applied to a long spanning county level 1895 - 2022 Temperature and Precipitation data set, to quantify climate change at a county level to use for analysis and visualization. This output of this model is then used in tandem with Valley Fever Prevalence data to allow us a little leverage to explore prevalence in light of climate change. 
+The statistical heart of this analysis is an OLS linear model applied to a long spanning county level 1895 - 2022 temperature and precipitation data set, to quantify county level climate change. The model output is then considered in tandem with valley fver prevalence data to help untangle relationships between climate change and the distribution of the fungal pathogen coccidioides.  
 
 ## Project Walkthrough
 
