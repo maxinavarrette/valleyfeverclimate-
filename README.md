@@ -28,7 +28,7 @@ Eda in python informed focus of visualization in tableau. Temperature had higher
 
 # Data Sources and References
 
-## VYF
+## Valley Fever: 
 
 ### State Level
 
@@ -51,7 +51,7 @@ https://directorsblog.health.azdhs.gov/
 *very difficult site to work with. you can use their in house search to find executive reports for the years listed. 
 
 
-## Climate 
+## Climate:
 
 Acquired county level climate and precipitation data from [NOAA's National Climatic Data Center FTP](ftp.ncdc.noaa.gov). 
 
