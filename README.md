@@ -26,9 +26,7 @@ The SQL script that was used to pre-process Valley Fever Prevalence data from th
 Eda in python informed focus of visualization in tableau. Temperature had higher correlation than precipitation with VYF prevalence. 
 
 
-# Data Sources and References 
-
-Data was acquired from a number of different sources: 
+# Data Sources and References
 
 ## VYF
 
