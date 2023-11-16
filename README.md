@@ -1,8 +1,8 @@
 # Valley Fever Prevalence (VYF) and Climate 
 
 ## Summary  
-This project is an exploration of valley fever prevalence and temperature and precipitation controls.
-Valley Fever is a soil based pathogen that has been growing in prevalence year by year. It is endemic to the southwest and the majority of cases are seen in California and Arizona. 
+This project is an exploration of the climate controls of valley fever prevalence namely—annual temperature increases and precipitation patterns.
+Valley fever is a soil based pathogen that has been growing in prevalence year by year. It is endemic to the southwest and the majority of cases are seen in California and Arizona. 
 While this project explores the entire southwest, California and Arizona VYF prevalence are the primary focus. 
 I aggregated Census, Temperature, Precipitation, and Valley Fever Prevalence data to use in this project. State level analysis shows data from 1998 to 2022. County level analysis shows data from 2001 - 2021 for California and 2006 to 2021 for Arizona.
 
