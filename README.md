@@ -7,7 +7,7 @@ Valley fever is the name for the respiratory infection caused by soil based path
 While this project explores the entire southwest, California and Arizona VYF prevalence are the primary focus. 
 I aggregated Census, Temperature, Precipitation, and Valley Fever Prevalence data to use in this project. State level analysis shows data from 1998 to 2022. County level analysis shows data from 2001 - 2021 for California and 2006 to 2021 for Arizona.
 
-The statistical heart of this analysis is an OLS linear model applied to a long spanning county level 1895 - 2022 temperature and precipitation data set, to quantify county level climate change. The model output is then considered in tandem with valley fver prevalence data to help untangle relationships between climate change and the distribution of the fungal pathogen coccidioides.  
+The statistical heart of this analysis is an OLS linear model applied to a long spanning county level 1895 - 2022 temperature and precipitation data set, to quantify county level climate change. The model output is then considered in tandem with valley fever prevalence data to help untangle relationships between climate change and the distribution of the fungal pathogen coccidioides.  
 
 ## Project Walkthrough
 
